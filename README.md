@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100" />
 
-<!--
-**tiennguyenbio/tiennguyenbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Your Name]! 👋
 
-Here are some ideas to get you started:
+## 🚀 Data Analyst | 🧬 Molecular Diagnostics Specialist | 📊 Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Projects & Expertise
+
+- **Data Science & Machine Learning**
+  - House Price Prediction (XGBoost, LinearLearner, Logistic Regression)
+  - White Blood Cell Classification (ResNet-18, Grayscale & Color Images)
+  - Sentiment Analysis on Product Reviews
+- **Business Intelligence & Visualization**
+  - Power BI Dashboards (Sales Analysis, Interactive Maps)
+  - Microsoft Power Apps (Data Entry & Reporting Applications)
+- **Molecular Diagnostics & Laboratory Work**
+  - PCR/Real-time PCR Assays for Human & Aquaculture Infections
+  - Experiment Design & Optimization
+  - Laboratory Inventory & Equipment Management
+- **Database & Automation**
+  - Automated Twitter Data Retrieval (Power Automate)
+  - Google Sheets & Microsoft Access
+  - SQL & Database Management
+
+### 📺 Featured Projects & Achievements
+
+🏆 [Best Presentation Award at the ITS Capstone Project Expo 2024 - Generative AI Chatbot for Homecare Services](#)  
+
+---
+**Connect with me!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nhttien)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745973169487216743)
