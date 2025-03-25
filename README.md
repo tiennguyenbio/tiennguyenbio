@@ -1,6 +1,6 @@
 # Hi, I'm Tien! 👋
 
-## 🚀 Data Analyst | 🧬 Molecular Diagnostics Specialist | 📊 Machine Learning Enthusiast
+## 🚀 Data Analyst | 📊 Machine Learning Enthusiast | 🧬 Molecular Diagnostics Specialist | 
 
 ### 👨‍💻 Projects & Expertise
 
