@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100" />
-
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Tien! 👋
 
 ## 🚀 Data Analyst | 🧬 Molecular Diagnostics Specialist | 📊 Machine Learning Enthusiast
 
